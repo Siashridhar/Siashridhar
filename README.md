@@ -1,6 +1,8 @@
-### Hi there 👋, I am Sia Shridhar!
+### Hi there 👋, I am Sia!
 
-I am a first-year Chemical Engineering student at the University of Waterloo. I am looking forward to learning professional skills from my first internship from May to August 2022.
+Pronouns: She/Her
+
+About me: I am a first-year Chemical Engineering student at the University of Waterloo. As a student and leader, I am looking for more opportunities to grow. I am looking forward to learning professional skills from my first internship from May to August 2022.
 
 <!--
 **Siashridhar/Siashridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
